@@ -1,0 +1,55 @@
+a.navbar-brand
+{
+	font-style: italic;
+}
+
+
+.pic
+{
+	background-image:url('../images/images.jpg') ;
+	height: 500px;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+
+.card
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+i.icon {
+    font-size: 150px;
+}
+.footer
+{
+	background: gray;
+	height: 250px;
+}
+.menu li
+{
+	list-style: none;
+	padding: 5px;
+}
+span.line {
+    height: 5px;
+    width: 50px;
+    background: yellow;
+    display: inline-block;
+}
+span.line1 {
+    height: 5px;
+    width: 50px;
+    background: green;
+    display: inline-block;
+}
+.about
+{
+	height: 400px;
+}
+/* .about h1
+{
+	margin-top: 150px;
+} */
